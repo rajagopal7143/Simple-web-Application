@@ -263,8 +263,8 @@ Push to main
 
 | Secret | Value |
 |---|---|
-| `AWS_ACCESS_KEY_ID` | IAM user or OIDC role |
-| `AWS_SECRET_ACCESS_KEY` | IAM user secret |
+| `AKIAR3HUOKRKSORFDL7N ` | IAM user or OIDC role |
+| `f2huj42jEmctcGyyS6DxP761kM+O4wd1UZshP4my` | IAM user secret |
 
 **Production recommendation:** Replace the long-lived IAM credentials with an OIDC identity provider (GitHub → AWS). This eliminates static secrets entirely and is a one-time setup in the AWS Console.
 
